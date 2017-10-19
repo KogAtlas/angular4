@@ -1,0 +1,14 @@
+{
+    "overrides" : [
+        {
+            "view" : "Metrics View",
+            "override" : true,
+            "overrideUrl" : "metricsView/"
+        },
+        {
+            "view" : "RSS View",
+            "override" : false,
+            "overrideUrl" : ""
+        }
+    ]
+}
